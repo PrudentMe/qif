@@ -1,0 +1,17 @@
+{
+  "name": "qif",
+  "version": "1.0.0",
+  "description": "Prudent extension that parses qif files",
+  "main": "qif.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vito Chin <chin.vito@outlook.com",
+  "license": "MIT",
+  "dependencies": {
+    "@prudent/encode": "^2.2.0",
+    "@prudent/text-import": "^2.0.0",
+    "qif2json": "^0.3.0"
+  }
+}
