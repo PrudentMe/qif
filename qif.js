@@ -4,7 +4,7 @@ const encode  = require('@prudent/encode');
 require('@prudent/text-import').start(function(content) {
 
     let parsedContent = qif2json.parse(content, {
-        dateFormat: 'us'
+       dateFormat: 'us'
     });
 
     let transactions = [];

@@ -12,6 +12,6 @@
   "dependencies": {
     "@prudent/encode": "^2.2.0",
     "@prudent/text-import": "^2.0.0",
-    "qif2json": "^0.3.0"
+    "qif2json": "^0.4.0"
   }
 }
